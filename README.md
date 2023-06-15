@@ -10,8 +10,15 @@
 
 #### 1. python 基础
 
-https://py.suiuko.com
-视频：黑马程序员 python 课程
+https://py.suiuko.com </br>
+视频：黑马程序员 python 课程</br>
+
+GitHub 笔记同步资源： </br>
+NOTE:  </br>
+https://github.com/poshoi/pythonnote  </br>
+
+CODE: </br>
+https://github.com/poshoi/pythonnotecode </br>
 
 ### 进阶部分
 
