@@ -50,3 +50,10 @@ GitHub 笔记同步资源： </br>
 本章讲解 stable diffusion 相关的知识，从 0 开始教你上手 SD，画出自己心中的图片。
 
 【笔记 note】：https://sd.suiuko.com
+
+
+
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=poshoi/AI-studio&type=Date)](https://star-history.com/#poshoi/AI-studio&Date)
+
